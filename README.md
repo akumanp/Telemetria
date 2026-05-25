@@ -4,7 +4,7 @@ Projeto desenvolvido em Java.
 
 ## Tecnologias
 - Java
-- Maven
+- Swing
 - MySQL
 
 ## Funcionalidades
@@ -14,4 +14,4 @@ Projeto desenvolvido em Java.
 - Banco de dados
 
 ## Autor
-Joe
+Joe e Luiz Felipe
